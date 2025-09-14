@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/models/m-5f1d76c3f08540529bf93a153a215698/artifacts
+creation_timestamp: 1757855963905
+experiment_id: '132888162167750235'
+last_updated_timestamp: 1757855965048
+model_id: m-5f1d76c3f08540529bf93a153a215698
+model_type: null
+name: xgboost-model
+source_run_id: f0c146b474ff4233b2c542f79271546d
+status: 2
+status_message: null

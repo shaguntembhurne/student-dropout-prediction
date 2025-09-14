@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/dac56d6241fe4f02ba03de3f438227f3/artifacts
+end_time: 1757857153107
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: dac56d6241fe4f02ba03de3f438227f3
+run_name: monumental-smelt-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857151427
+status: 3
+tags: []
+user_id: shaguntembhurne

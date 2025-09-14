@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/715c4fe807c04cf192753fa7fcf363e4/artifacts
+end_time: 1757855387398
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 715c4fe807c04cf192753fa7fcf363e4
+run_name: puzzled-frog-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757855384275
+status: 3
+tags: []
+user_id: shaguntembhurne

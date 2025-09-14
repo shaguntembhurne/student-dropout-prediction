@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/4554b1fe5e444d26a00f12acd1827d2a/artifacts
+end_time: 1757857146949
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 4554b1fe5e444d26a00f12acd1827d2a
+run_name: suave-dog-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857144175
+status: 3
+tags: []
+user_id: shaguntembhurne

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/680075bdf86e4ede9685eb0065cbaf81/artifacts
+end_time: 1757857155105
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 680075bdf86e4ede9685eb0065cbaf81
+run_name: crawling-robin-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857153109
+status: 3
+tags: []
+user_id: shaguntembhurne

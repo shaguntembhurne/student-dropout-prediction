@@ -1,0 +1,22 @@
+artifact_path: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/models/m-d40c7958557f45fea9e0c5491bcce963/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.8
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.3.2
+model_id: m-d40c7958557f45fea9e0c5491bcce963
+model_size_bytes: 771025
+model_uuid: m-d40c7958557f45fea9e0c5491bcce963
+prompts: null
+run_id: c077c28a387844f680cfc2185f3c350e
+utc_time_created: '2025-09-14 13:39:15.728378'

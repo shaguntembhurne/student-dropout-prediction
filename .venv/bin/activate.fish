@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/shaguntembhurne/all_github/CustomerIntel/student-dropout-prediction/.venv
+set -gx VIRTUAL_ENV /Users/shaguntembhurne/all_github/student-dropout-prediction/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

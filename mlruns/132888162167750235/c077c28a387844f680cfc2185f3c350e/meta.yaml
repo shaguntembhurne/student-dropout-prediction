@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/c077c28a387844f680cfc2185f3c350e/artifacts
+end_time: 1757857156949
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: c077c28a387844f680cfc2185f3c350e
+run_name: casual-bear-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857155106
+status: 3
+tags: []
+user_id: shaguntembhurne

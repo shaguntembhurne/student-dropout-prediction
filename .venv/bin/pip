@@ -1,4 +1,4 @@
-#!/Users/shaguntembhurne/all_github/CustomerIntel/student-dropout-prediction/.venv/bin/python
+#!/Users/shaguntembhurne/all_github/student-dropout-prediction/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

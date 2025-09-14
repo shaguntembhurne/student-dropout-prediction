@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/99830a58ac2a4075b7a2a7c03314d03a/artifacts
+end_time: 1757857151424
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 99830a58ac2a4075b7a2a7c03314d03a
+run_name: delicate-snail-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857148832
+status: 3
+tags: []
+user_id: shaguntembhurne

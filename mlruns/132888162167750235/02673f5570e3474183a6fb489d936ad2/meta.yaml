@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/02673f5570e3474183a6fb489d936ad2/artifacts
+end_time: 1757857148830
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 02673f5570e3474183a6fb489d936ad2
+run_name: illustrious-croc-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857146951
+status: 3
+tags: []
+user_id: shaguntembhurne

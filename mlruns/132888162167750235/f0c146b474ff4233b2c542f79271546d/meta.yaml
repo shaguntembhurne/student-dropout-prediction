@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/f0c146b474ff4233b2c542f79271546d/artifacts
+end_time: 1757855965050
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: f0c146b474ff4233b2c542f79271546d
+run_name: brawny-ram-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757855963386
+status: 3
+tags: []
+user_id: shaguntembhurne

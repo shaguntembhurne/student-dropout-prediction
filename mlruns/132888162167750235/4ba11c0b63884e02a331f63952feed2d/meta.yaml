@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shaguntembhurne/all_github/student-dropout-prediction/mlruns/132888162167750235/4ba11c0b63884e02a331f63952feed2d/artifacts
+end_time: 1757857159403
+entry_point_name: ''
+experiment_id: '132888162167750235'
+lifecycle_stage: active
+run_id: 4ba11c0b63884e02a331f63952feed2d
+run_name: charming-finch-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757857156951
+status: 3
+tags: []
+user_id: shaguntembhurne
