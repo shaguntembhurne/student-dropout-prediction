@@ -50,10 +50,9 @@ app = FastAPI()
 scaler = load('scaler.joblib')
 model_columns = load('model_columns.joblib')
 
-# IMPORTANT: Replace this with the actual Run ID of your best model!
-RUN_ID = "680075bdf86e4ede9685eb0065cbaf81" # Example RUN_ID
-logged_model_uri = f"runs:/{RUN_ID}/xgboost-model"
-model = mlflow.pyfunc.load_model(logged_model_uri)
+# Load the model directly from the file path
+MODEL_PATH = "mlruns/132888162167750235/models/m-fb9f56db7e994432b44093f1f807ebfd/artifacts"
+model = mlflow.pyfunc.load_model(MODEL_PATH)
 
 prediction_labels = {0: "Dropout", 1: "Enrolled", 2: "Graduate"}
 
